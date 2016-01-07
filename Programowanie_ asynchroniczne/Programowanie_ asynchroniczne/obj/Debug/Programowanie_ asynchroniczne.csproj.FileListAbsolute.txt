@@ -1,0 +1,21 @@
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.exe.config
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.exe
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.pdb
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie__asynchroniczne.Form1.resources
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie__asynchroniczne.Properties.Resources.resources
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.exe
+d:\dokumenty\visual studio 2013\Projects\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\bin\Debug\Programowanie_ asynchroniczne.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie__asynchroniczne.Form1.resources
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie__asynchroniczne.Properties.Resources.resources
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Programowanie_ asynchroniczne\Programowanie_ asynchroniczne\obj\Debug\Programowanie_ asynchroniczne.csproj.GenerateResource.Cache

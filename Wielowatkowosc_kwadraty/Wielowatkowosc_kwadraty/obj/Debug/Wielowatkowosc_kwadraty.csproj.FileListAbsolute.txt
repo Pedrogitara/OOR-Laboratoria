@@ -1,0 +1,21 @@
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.exe.config
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.exe
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.pdb
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.Form1.resources
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.Properties.Resources.resources
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.csproj.GenerateResource.Cache
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.exe
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.pdb
+d:\dokumenty\visual studio 2013\Projects\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\bin\Debug\Wielowatkowosc_kwadraty.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.csprojResolveAssemblyReference.cache
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.Form1.resources
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.Properties.Resources.resources
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Wielowatkowosc_kwadraty\Wielowatkowosc_kwadraty\obj\Debug\Wielowatkowosc_kwadraty.csproj.GenerateResource.Cache

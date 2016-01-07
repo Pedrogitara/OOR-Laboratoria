@@ -1,0 +1,15 @@
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.exe.config
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.exe
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.pdb
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.csprojResolveAssemblyReference.cache
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.exe
+d:\dokumenty\visual studio 2013\Projects\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.exe.config
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.exe
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\bin\Debug\Producent-konsument_console.pdb
+D:\Dokumenty\Pulpit Piotr\Semestr VII\OOR (Programowanie równoległe)\Producent-konsument_console\Producent-konsument_console\obj\Debug\Producent-konsument_console.csprojResolveAssemblyReference.cache
